@@ -63,7 +63,7 @@ The system is broken down into 3 core components:
   - `Game`
 - Each class is unit-testable and extensible
 
-📄 See: [`LLD/tic_tac_toe_uml.md`](LLD/tic_tac_toe_uml.md)  
+📄 See: [`LLD/tic_tac_toe_uml.md`](LLD/tic_tac_toe_lld)  
 📷 UML Diagram: ![Class Diagram](LLD/class_diagram.png)
 
 ---
