@@ -15,10 +15,7 @@ This project demonstrates strong understanding of **Low-Level Design (LLD)** pri
   - [High-Level Design (HLD)](#high-level-design-hld)
   - [Low-Level Design (LLD)](#low-level-design-lld)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Sample Output](#sample-output)
-- [Extensibility Ideas](#extensibility-ideas)
-- [License](#license)
 
 ---
 
@@ -35,8 +32,8 @@ This project demonstrates strong understanding of **Low-Level Design (LLD)** pri
 ## 🧰 Tech Stack
 
 - Language: **Python 3.x**
-- Diagram: [draw.io](https://draw.io), Mermaid (optional)
-- IDE: VSCode / PyCharm
+- Diagram: [draw.io](https://draw.io)
+- IDE: PyCharm
 
 ---
 
@@ -44,7 +41,7 @@ This project demonstrates strong understanding of **Low-Level Design (LLD)** pri
 
 ### 📐 High-Level Design (HLD)
 
-The system is broken down into 3 core components:
+The system is broken down into 3 core components a detailed overview is present in tic_tac_toe_hld.md
 
 - `Game` → Handles flow control and game logic
 - `Board` → Manages 2D grid, move validation, winner checks
@@ -63,8 +60,8 @@ The system is broken down into 3 core components:
   - `Game`
 - Each class is unit-testable and extensible
 
-📄 See: [`LLD/tic_tac_toe_uml.md`](LLD/tic_tac_toe_lld)  
-📷 UML Diagram: ![Class Diagram](LLD/class_diagram.png)
+📄 See: [`LLD/tic_tac_toe_lld.md`](LLD/tic_tac_toe_lld)  
+📷 UML Diagram: !Class [Diagram](/ticTacToeGame/LLD/class_diagram.pdf)
 
 ---
 
@@ -77,3 +74,11 @@ The system is broken down into 3 core components:
 
 ```bash
 # Clone the repositor
+
+```
+## Sample Output 
+
+https://tic-toc-toe.streamlit.app/
+
+
+
